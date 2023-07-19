@@ -7,7 +7,7 @@
     </a>
 </p>
 
-Akollade is a 🇫🇷 French Web development agency specializing in the production, recovery and maintenance of web applications.
+Akollade is a 🇫🇷 French Web development agency with expertise in the production, recovery and maintenance of tailor-made web applications.
 
 ## Get in touch!
 
